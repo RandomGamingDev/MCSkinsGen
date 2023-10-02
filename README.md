@@ -2,6 +2,7 @@
 A repository for prototype 2 of a Minecraft skin generator based off of Stable Diffusion v1.5. It's trained off of Stable Diffusion and uses data scraped with https://github.com/RandomGamingDev/mcskins-net-scraper. This is the current most permissive model (in terms of license) and is one of the most powerful (I can't be sure whether or not it's the most powerful since I don't have access to some of the competitors or simply can't run them)
 
 ## Our Discord :D
+![Discord Stats](https://img.shields.io/discord/1158518768067166338.svg?style=for-the-badge) <br/>
 https://discord.gg/APdcNPMvR3
 
 ## Here are the Colab Notebooks for the model:
