@@ -4,7 +4,8 @@ A repository for prototype 2 of a Minecraft skin generator based off of Stable D
  📊 **Skin Generator**:  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGen.ipynb) <br/>
  ⭐ **Model Trainer**: [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGenTrainer.ipynb)
 
-Here are some example skins that I liked (Note: The model will try to follow the prompt, but currently does so very very loosely if at all in a lot of cases.): <br/>
+## Here are some example skins that I liked (Note: The model will try to follow the prompt, but currently does so very very loosely if at all in a lot of cases.): <br/>
+
 This skin was generated with the name "Alchemist", the "movies" category, and with the "Alchemist with golden hair" description. <br/>
 ![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin3.png) <br/>
 I forgot the prompt for these, but honestly I like em so they go on the front page :D <br/>
