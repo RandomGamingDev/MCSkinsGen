@@ -1,7 +1,8 @@
 # MCSkinsGen
 A repository for prototype 2 of a Minecraft skin generator based off of Stable Diffusion v1.5. It's trained off of Stable Diffusion and uses data scraped with https://github.com/RandomGamingDev/mcskins-net-scraper.
 
-Here's a Discord you can join if you'd be interested in learning more about the project: https://discord.gg/APdcNPMvR3 :D
+## Our Discord :D
+https://discord.gg/APdcNPMvR3
 
 ## Here are the Colab Notebooks for the model:
 ### This model generates ACTUAL skins that can be imported and used in Minecraft
