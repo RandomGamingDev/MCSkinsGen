@@ -5,8 +5,8 @@ This is the current most permissive model (in terms of license) and is one of th
 ## Our Discord :D &nbsp;&nbsp;&nbsp; ![Discord Stats](https://img.shields.io/discord/1158518768067166338.svg?style=for-the-badge) <br/>
 https://discord.gg/APdcNPMvR3
 
-## Here are the Colab Notebooks for the model:
-### This model generates ACTUAL skins that can be imported and used in Minecraft
+## Here are the Colab Notebooks for the models (Skin Generator is for generating the skins):
+### Just follow the instructions in the Google Colab for Skin Generator and this model will create skins that can be used in game!
 #### (btw I recommend generating more than 2 images once you know what you want)
 
  📊 **Skin Generator**:  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGen.ipynb) <br/>
