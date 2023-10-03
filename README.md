@@ -14,7 +14,7 @@ https://discord.gg/APdcNPMvR3
 
 ## Instructions:
 1. Click on the **Skin Generator** Google Colab link to open the notebook
-2. Sign up for a Hugging Face account and create a key here: https://huggingface.co/settings/tokens
+2. Sign up for a Hugging Face account and create a read key here: https://huggingface.co/settings/tokens
 3. Press play next to the first code block, which will install some dependencies and then present a login screen in which you'll enter the key and then enter y for whether or not to add it as a git credential <br/> The login screen you find at the end of the fancy install bars: <br/> ![The login screen](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/login_screen.png)
 5. Run the second code block
 6. Run the final code block with the prompt that you want
