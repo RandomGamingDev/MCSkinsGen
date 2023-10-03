@@ -12,7 +12,7 @@ https://discord.gg/APdcNPMvR3
  📊 **Skin Generator**:  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGen.ipynb) (Click on the icon left of me!) <br/>
  ⭐ **Model Trainer**: [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGenTrainer.ipynb)
 
-## Instructions:
+## Instructions for generating a skin:
 1. Click on the **Skin Generator** Google Colab link to open the notebook
 2. Sign up for a Hugging Face account and create a read key here: https://huggingface.co/settings/tokens
 3. Press play next to the first code block, which will install some dependencies and then present a login screen in which you'll enter the key and then enter `y` for whether or not to add it as a git credential. To enter text simply press the empty space next to the `:` which will reveal an input bar that you can type in. <br/> The login screen you find at the end of the fancy install bars: <br/> ![The login screen](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/login_screen.png)
@@ -38,7 +38,7 @@ However, I might try using a smaller custom model in the future for efficiency.
 
 ## How does this work?
 
-First, we scrape the data with https://github.com/RandomGamingDev/mcskins-net-scraper before using `to-imagefolder.py` and `to-1dir-dataset.py` to convert it into a form that can be used and with a 512x512 resolution for each skin before placing it into `Loras/mcskins/dataset` and train it with the default LoRA model. (This requires Google Colab Compute units since Google doesn't let you do it with the free tier)
+First, we scrape the data with https://github.com/RandomGamingDev/mcskins-net-scraper before using `to-imagefolder.py` and `to-1dir-dataset.py` to convert it into a form that can be used and with a 512x512 resolution for each skin before placing it into `Loras/mcskins/dataset` and train it with the default LoRA model. (This requires Google Colab Compute units since Google doesn't let you do it with the free tier) (If you want to train based off of another LoRA or based off of the LoRAs generated from what you previously trained just place it somewhere downloadable (perhaps in a github pull request) and then place the url to it in the optional_custom_training_model_url)
 With the finished models, we can then generate skins that we then proceed to resize back to 64x64 with Pillow before exporting. (This can be done on the free tier)
 
 ## Why is the model not was powerful as it could be?
