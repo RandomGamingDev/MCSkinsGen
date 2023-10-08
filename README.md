@@ -12,7 +12,7 @@ https://discord.gg/APdcNPMvR3
  📊 **Skin Generator**:  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGen.ipynb) (Click on the icon left of me!) <br/>
  ⭐ **Model Trainer**: [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGenTrainer.ipynb)
 
-## Instructions for generating a skin:
+## Instructions for generating a skin: (Note: You should choose the T4 GPU runtime instance especially on the free tier)
 1. Click on the **Skin Generator** Google Colab link to open the notebook
 2. Sign up for a Hugging Face account and create a read key here: https://huggingface.co/settings/tokens
 3. Press play next to the first code block, which will install some dependencies and then present a login screen in which you'll enter the key and then enter `y` for whether or not to add it as a git credential. To enter text simply press the empty space next to the `:` which will reveal an input bar that you can type in. <br/> The login screen you find at the end of the fancy install bars: <br/> ![The login screen](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/login_screen.png)
