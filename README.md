@@ -5,7 +5,7 @@ This is the current most permissive model (in terms of license) and is one of th
 ## Our Discord :D &nbsp;&nbsp;&nbsp; ![Discord Stats](https://img.shields.io/discord/1158518768067166338.svg?style=for-the-badge) <br/>
 https://discord.gg/APdcNPMvR3
 
-## Youtube (basically a vid explaining the AI and how to use it)
+## Youtube (basically a vid explaining the AI and how to use it) (preferable to the text tutorial if you don't have experience with this sorta stuff)
 https://www.youtube.com/watch?v=Zhug5-smQ8g
 
 ## Here are the Colab Notebooks for the models (Skin Generator is for generating the skins):
