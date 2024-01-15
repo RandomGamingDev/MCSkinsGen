@@ -2,11 +2,15 @@
 A repository for prototype 2 of a Minecraft skin generator based off of Stable Diffusion v1.5. It's trained off of Stable Diffusion and uses data scraped with https://github.com/RandomGamingDev/mcskins-net-scraper. <br/>
 This is the current most permissive model (in terms of license) and is one of the most powerful (I can't be sure whether or not it's the most powerful since I don't have access to some of the competitors or simply can't run them)
 
+<br/>
+
 ## Our Discord :D &nbsp;&nbsp;&nbsp; ![Discord Stats](https://img.shields.io/discord/1158518768067166338.svg?style=for-the-badge) <br/>
 https://discord.gg/APdcNPMvR3
 
 ## Youtube (basically a vid explaining the AI and how to use it) (preferable to the text tutorial if you don't have experience with this sorta stuff)
 https://www.youtube.com/watch?v=Zhug5-smQ8g
+
+<br/>
 
 ## Here are the Colab Notebooks for the models (Skin Generator is for generating the skins):
 ### Just follow the instructions in the Google Colab for Skin Generator and this model will create skins that can be used in game!
@@ -14,6 +18,8 @@ https://www.youtube.com/watch?v=Zhug5-smQ8g
 
  📊 **Skin Generator**:  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGen.ipynb) (Click on the icon left of me!) <br/>
  ⭐ **Model Trainer**: [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/RandomGamingDev/MCSkinsGen/blob/main/MCSkinGenTrainer.ipynb)
+
+<br/>
 
 ## Instructions for generating a skin: (Note: You should choose the T4 GPU runtime instance especially on the free tier)
 1. Click on the **Skin Generator** Google Colab link to open the notebook
@@ -25,6 +31,8 @@ https://www.youtube.com/watch?v=Zhug5-smQ8g
 Step 5 can be repeated for each skin you try to generate without repeating the previous steps <br/>
 However, you'll need to repeat the steps when Google Colab restarts 
 
+<br/>
+
 ## Here are some example skins that I liked (Note: The model will try to follow the prompt, but currently does so very very loosely if at all in a lot of cases.): <br/>
 
 This skin was generated with the name "Alchemist", the "movies" category, and with the "Alchemist with golden hair" description. <br/>
@@ -34,6 +42,8 @@ I forgot the prompt for these, but honestly I like em so they go on the front pa
 ![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin2.png)
 
 Note: Only the Skin Generator itself can be used on the Google Colab free tier
+
+<br/>
 
 ## Why Stable Diffusion?
 While a smaller GAN may be more efficient, if we even got to a fraction of utilizing the abilities of Stable Diffusion, that means that we don't have to do nearly as much work with characters that are less well known if we can get the model to learn how to make pixel art of the characters its seen before.
