@@ -56,4 +56,4 @@ With the finished models, we can then generate skins that we then proceed to res
 
 ## Why is the model not was powerful as it could be?
 
-I've trained up to epoch 18, but I haven't had enough computing power to train past that (Google Colab does a funni and kicks me off and I don't have a GPU powerful enough to train the AI)
+I've trained up to epoch 18, but I haven't had enough computing power to train past that (Google Colab does a funni and kicks me off and I don't have a GPU powerful enough to train the AI) + the dataset used, although very high quality, is very small
