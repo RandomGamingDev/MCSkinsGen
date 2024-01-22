@@ -46,7 +46,7 @@ Note: Only the Skin Generator itself can be used on the Google Colab free tier
 <br/>
 
 ## Why Stable Diffusion?
-While a smaller GAN may be more efficient, if we even got to a fraction of utilizing the abilities of Stable Diffusion, that means that we don't have to do nearly as much work with characters that are less well known if we can get the model to learn how to make pixel art of the characters its seen before.
+While a smaller GAN UNet may be more efficient, if we even got to a fraction of utilizing the abilities of Stable Diffusion, that means that we don't have to do nearly as much work with characters that are less well known if we can get the model to learn how to make pixel art of the characters its seen before.
 However, I might try using a smaller custom model in the future for efficiency.
 
 ## How does this work?
