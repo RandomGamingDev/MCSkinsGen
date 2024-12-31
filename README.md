@@ -37,9 +37,10 @@ However, you'll need to repeat the steps when Google Colab restarts
 
 This skin was generated with the name "Alchemist", the "movies" category, and with the "Alchemist with golden hair" description. <br/>
 ![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin3.png) <br/>
-I forgot the prompt for these, but honestly I like em so they go on the front page :D <br/>
-![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin1.png)
-![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin2.png)
+This skin was generated with the name "Christmas Golem", the "fantasy" category, and with the "Golem with christmas pajamas" description. <br/>
+![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin1.png) <br/>
+This skin was generated with the name "Cute Robot", the "fantasy" category, and with the "Cute robot with cyclopes eye" description. <br/>
+![alt text](https://github.com/RandomGamingDev/MCSkinsGen/blob/main/imgs/demoSkin2.png) <br/>
 
 Note: Only the Skin Generator itself can be used on the Google Colab free tier
 
